@@ -8,15 +8,15 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Lucas Torres Neves
+- Matricula: 905488
+- Proposta de projeto escolhida: 4.Coleções e itens
+- Breve descrição sobre seu projeto: Página web com álbuns e faixas.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  <img src="/public/imagens/wireframe.jpg> >>
 
 
 ## Print da home-page criada
